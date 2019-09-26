@@ -94,6 +94,7 @@ We have organized the questions to better address each focus point.
 - recursive algorithm 
 
 ## Plateform  
+- AutoLayout / Auto resizing masks
 - arm processors
 - armV7/armV7s, arm64
 - GCD
