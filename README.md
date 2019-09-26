@@ -95,6 +95,8 @@ We have organized the questions to better address each focus point.
 
 ## Plateform  
 - AutoLayout / Auto resizing masks
+- Xib 
+- Storyboard
 - arm processors
 - armV7/armV7s, arm64
 - GCD
@@ -148,6 +150,7 @@ We have organized the questions to better address each focus point.
 - MVP 
 - MVVM 
 - Decorator
+- Observer Pattern
 
 ## Data Storage 
 - UserDefault
