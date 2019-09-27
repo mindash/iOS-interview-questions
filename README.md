@@ -49,7 +49,7 @@ We have organized the questions to better address each focus point.
 - What is a typealias?
 - What is tuple? 
 - When to use guard?
-- What problem generics solve?
+- What problems can be solved using Generics?
 
 ## Objective-C
 - Why do we use @synchronized?
@@ -73,29 +73,37 @@ We have organized the questions to better address each focus point.
 - UICollectionView usage and available since?
 - UIAlertView usage
 - UIAlertViewController usage
+- Any VS Anyobject
+- Category/Extension VS Protocol
+- Category/Extension VS Inheritance
+- Category/Extension VS Inheritance
+- NSSet VS NSArray
+- NSDictionary VS NSMutableArray
+- Bound VS Frame
 
 ## Memory Management
 - How it's works?
 - ARC
-- Retain cycle problems, analysis, solutions?
 - weak
 - strong
 - Swift structures
 - Swift classes
 - Unowned
-- delegation, property attributes
-- low memory, problems, analysis, solutions?
+- Retain cycle problems, analysis, solutions?
+- Delegation, property attributes
+- Low memory, problems, analysis, solutions?
 
 ## Algorithms
 - What are algorithms?
 - Why learn algorithms? 
 - This algorithm is O(n)." What that means?
-- complexity n, logN, n2
-- recursive algorithm 
+- Complexity n, logN, n2
+- Recursive algorithm 
 
 ## Plateform  
 - AutoLayout / Auto resizing masks
-- Xib 
+- XIB
+- XIB vs NIB
 - Storyboard
 - arm processors
 - armV7/armV7s, arm64
@@ -118,8 +126,8 @@ We have organized the questions to better address each focus point.
 - UDID
 - TLS
 - AppGroups
-- ipa
-- ipsw
+- .ipa
+- .ipsw
 - keychain
 - ATS
 
