@@ -120,16 +120,17 @@ We have organized the questions to better address each focus point.
 - IBDesignable
 
 ## Security
+- http / https / TLS
+- App Transport Security
 - CodeSign
 - Touch ID
 - Face ID
 - UDID
 - TLS
-- AppGroups
 - .ipa
 - .ipsw
 - keychain
-- ATS
+- AppGroups
 
 ## Tools
 - xcode-select
