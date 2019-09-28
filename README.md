@@ -8,18 +8,6 @@ A small guide to help those looking to hire a developerfor iOS.
 A great self-test if you're looking to keep current or practice for your own interview.
 All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises
 
-Domains             |  The Battle  |  Results | Cups | Seniority
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](./images/0_domaines.jpg)  |  ![](./images/1_the_battle.jpg)|  ![](./images/2_test_results.jpg)|  ![](./images/3_unlock_cups.jpg)|  ![](./images/4_seniority.jpg)
-
-## Contributions 
-If you want to add subjets of interviews. Those subjets can be added to RocketSkill App and if you want you will be named in in the question add contributors.
-
-- Open an issue
-- Or fork and submit a merge request
-
-## Other plateforms
-IN PROGRESS
 
 ## iOS domains
 We have organized the questions to better address each focus point.
@@ -198,3 +186,16 @@ IN PROGRESS
 - New OS features?
 - Dark Mode rendering
 - Combine
+
+Domains             |  The Battle  |  Results | Cups | Seniority
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](./images/0_domaines.jpg)  |  ![](./images/1_the_battle.jpg)|  ![](./images/2_test_results.jpg)|  ![](./images/3_unlock_cups.jpg)|  ![](./images/4_seniority.jpg)
+
+## Contributions 
+If you want to add subjets of interviews. Those subjets can be added to RocketSkill App and if you want you will be named in in the question add contributors.
+
+- Open an issue
+- Or fork and submit a merge request
+
+## Other plateforms
+IN PROGRESS
